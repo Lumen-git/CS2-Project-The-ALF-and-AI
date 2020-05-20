@@ -1,7 +1,6 @@
 FOR GITHUB: This is a project I did in 2020 for my computer scince 2 course (Python). I wrote a script to gather lyrics from Genius and train an AI to generate more. The AI used is the char-rnn. I'm uploading it to Gihub to save, show off, and to offer the ALF tool to anyone who wants to use it.
 
-
-
+The final title of my project is "Using a 1980s sitcom alien to make an AI" because I'm the funniest person on this goddamn plant.
 
 
 Here's a document to explain what everything in this folder is and what it does, as well as some other explanations.
